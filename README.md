@@ -1,2 +1,2 @@
-# git
-new file
+school 
+my name is shiva 
